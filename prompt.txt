@@ -1,0 +1,9 @@
+In a single html file, write a pacman game.
+When launched it should show a typical game screen, with walls and eatable dots in the empty squares.
+There should be 1 pacman, and 3 ghosts colored red, blue & green. The ghosts should start close to center of screen, with pacman starting bottom middle.
+Ghosts can't move through it each other.
+Every second, the ghosts should take 1 move towards the pacman. If they are unable to, due to wall or other ghost, it should move in a random valid direction.
+If a ghost & pacman are ever in the same square, the pacman dies. Show a "You died - Retry?" screen, where the user can restart the game.
+Every the pacman moves to a square with a eatable dot, the dot is removed & the score increases by 10 points.
+Pacman wins by eating all the dots.
+When a ghost moves they do not consume the dots, meaning that when leaving a square that had a dot, the dot would be shown.

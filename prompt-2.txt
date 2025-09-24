@@ -1,0 +1,1 @@
+Update the game screen so all dots are reachable. Currently the bottom 2 rows + 2 parts on left and right are not

@@ -1,0 +1,3 @@
+Create a new maze, ensuring that the outer wall is covered by blocks, which should be light blue.
+Ensure that all dots are reachable.
+Add a tunnel-style wraparound path to allow exit on 1 side, and reappear on the other
